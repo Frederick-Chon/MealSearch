@@ -4,7 +4,7 @@ MealSearch is an app where users can search or generate random meals from the Me
 
 ## Live Demo
 
-Live version hosted [here]()
+Live version hosted [here](https://frederick-chon.github.io/MealSearch/)
 
 ## Built Using
 
